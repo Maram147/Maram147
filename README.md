@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Maram Mahmoud 👋</h1>
-<h3 align="center" ><a href="https://www.linkedin.com/in/devmaraam"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=65F780&width=435&lines=Software+Engineer;Frontend+Developer" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://www.linkedin.com/in/devmaraam"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=3b82f6&width=435&lines=Software+Engineer;Frontend+Developer" alt="Typing SVG" /></a></h3>
 
 
 - 🌱 I’m currently learning **Front-end Development – React**
