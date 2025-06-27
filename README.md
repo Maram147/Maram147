@@ -32,9 +32,13 @@
 
 ## GitHub Stats
 
+
+
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maram147&theme=radical" alt="GitHub Streak" />
- 
   <img src="https://github-readme-stats.vercel.app/api?username=Maram147&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maram147&theme=radical" alt="GitHub Streak" />
+</p>
+
 
