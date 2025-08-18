@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-    permissions:      # 👈 مهم جداً علشان الـ GITHUB_TOKEN يكتب في الـ repo
+    permissions:     
       contents: write
 
     steps:
