@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    permissions:      # 👈 مهم جداً علشان الـ GITHUB_TOKEN يكتب في الـ repo
+      contents: write
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -30,7 +33,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
